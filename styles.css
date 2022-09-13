@@ -79,9 +79,12 @@ text-transform: uppercase;
   background-color: #C7F3F6;
   border: 1px solid #76F2FB;
   border-radius: 5px;
-  color: #9aaabe;
+  color: #113d74;
   padding: 0 20px;
   font-size: 18px;
+}
+.label-form{
+  color: #FFF;
 }
 
 .dsmeta-sales-table {
