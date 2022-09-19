@@ -8,3 +8,7 @@
 
 [Site](https://ezioweb.github.io/Integrador-frontend/)
 
+## UML do projeto
+[Link pro drawIO](https://drive.google.com/file/d/1T8AZxg4sDGHIxpWgD_bPGuN7IGOnxsEE/view?usp=sharing)
+
+
