@@ -264,10 +264,6 @@ button {
   justify-content: flex-start | flex-end | center | space-between | space-around | space-evenly;
 }
 /* ------------------------- Form ----------------------------------- */
-
-
-
-
 input {
   border: none;
   border-radius: 0.2rem;
